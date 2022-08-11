@@ -1,16 +1,24 @@
-# motocheck
+# MOTOCHECK ASSESSMENT
+11-08-2022
 
-A new Flutter project.
+Abdullah Opadeji O.
+https://abdorll.github.io
++2349062884153
+abdullahopadeji50@gmail.com
 
-## Getting Started
+# Overview
+I was able to complete the screens. In addition to this, I added some other features to embellish it:  additional screens, splash screen,  Intro screens, amongst others.
 
-This project is a starting point for a Flutter application.
+# Video screenshot
+Link to video screenshot (well compressed): 
+https://drive.google.com/file/d/1dS43Gab0TJO5MSL1_Qmno6xKuE4B5vAU/view?usp=sharing
 
-A few resources to get you started if this is your first Flutter project:
+# App generated APK
+This is the link to download the app and have its feel:
+https://drive.google.com/file/d/1vS3RkA_sPh4YqsBBXMKxP6I0P3hU1oM4/view?usp=sharing
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Github link
+ This is the link to the app source code pushed to github:
+https://github.com/abdorll/motocheck
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
